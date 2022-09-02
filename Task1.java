@@ -2,7 +2,7 @@ package by.academy.lesson5.classwork;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 public class Task1 {
 //	1. Ввести n строк с консоли, найти самую короткую и самую длинную строки. 
 //	Вывести найденные строки и их длину.
